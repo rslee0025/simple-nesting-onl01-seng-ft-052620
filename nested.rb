@@ -62,8 +62,8 @@ def dennis_ritchies_language
      
      language_as_a_string = programmer_hash [:dennis_ritchie][:language]
     
-    
-     return programmer_hash [:dennis_ritchie][:language]
+    return language_as_a_string.join
+     
 end
 
 def adding_matz
