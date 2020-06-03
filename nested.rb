@@ -121,9 +121,7 @@ def changing_alan
      alans_new_info = "GUI"
      
       programmer_hash.merge(:alan_kay => {
-   :known_for => "Ruby",
-    :languages => ["LISP, C"]
- })
+   :known_for => "GUI"})
      
 end
 
